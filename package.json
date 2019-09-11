@@ -1,0 +1,24 @@
+{
+    "name": "mean_connectexercise",
+    "version": "1.0.0",
+    "description": "This is repo for connect exercise to build http connect server to return html page, data files - leagues.json and teams.json",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "dev": "node inspect server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Suriya1785/Mean_ConnectExercise.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Suriya1785/Mean_ConnectExercise/issues"
+    },
+    "homepage": "https://github.com/Suriya1785/Mean_ConnectExercise#readme",
+    "dependencies": {
+        "connect": "^3.7.0"
+    }
+}
