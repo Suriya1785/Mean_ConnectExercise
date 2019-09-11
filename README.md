@@ -1,0 +1,1 @@
+This is repo for connect exercise to build http connect server to return html page, data files - leagues.json and teams.json
